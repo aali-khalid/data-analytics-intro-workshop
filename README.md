@@ -15,4 +15,4 @@ The excel files can be found int he day 1 folder
 ## Day 2
 Next we code all the stages from ingestion to reporting in python using Jupyter notebooks. Files in the Day 02 folder.
 
-For details on the workshop session and feedback - refer the post here: [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+For details on the workshop session and feedback - refer the post [here](https://entalytica.wordpress.com/2021/08/02/intro-to-data-analytics-quality-workshop/)
